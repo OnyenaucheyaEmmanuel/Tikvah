@@ -1,4 +1,4 @@
-from .base import *
+from .settings import *
 import os, socket
 # from sshtunnel import SSHTunnelForwarder
 from dotenv import load_dotenv
